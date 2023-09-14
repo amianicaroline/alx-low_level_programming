@@ -17,7 +17,8 @@ void print_alphabet(void)
 }
 
 /**
- * print_alphabet_x10 - function prints the alphabet from 'a' to 'z' ten times.
+ * print_alphabet_x10 - function prints the alphabet
+ * from 'a' to 'z' ten times.
  *
  * Return: This function does not return any value.
  */
